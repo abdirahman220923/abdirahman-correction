@@ -1,0 +1,27 @@
+ul {
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 50px;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    border: 2px solid #0073e6;
+    border-radius: 50%;  
+    width: 100px;
+    height: 100px
+}
+body{
+    background-color: #f4f4f4;
+}
+h3{
+    color: #0073e6;
+}

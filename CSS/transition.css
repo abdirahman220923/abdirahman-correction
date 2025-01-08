@@ -1,0 +1,11 @@
+li:hover{
+    background-color: white;
+    a{
+        color: blueviolet;
+    }
+    padding: 10px;
+}
+img:hover{
+    transition: 2s ease-in-out;
+    transform: rotate(360deg);
+}
